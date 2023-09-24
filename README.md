@@ -7,7 +7,7 @@ Studen
 "I have graduated with a Bachelor's degree in the field of Information Science and Technology from Bangkok Thonburi University. Currently, I am looking for job opportunities related to front-end, back-end, and full stack development. I am passionate about web development, maintaining various systems, and enjoy dedicating my free time to learning new skills to continuously improve myself. On my website, you can explore my various projects and certifications that showcase my skillset. I am open to collaborating with others, listening actively, and offering solutions when needed. Thank you for reading until the end, and I hope to have the opportunity to work with you."
 
 * 🌍  I'm based in Nakornpathom , Thailand
-* 🖥️  See my portfolio at [MY PORTFOLIO](http://i-m-mac-70873.web.app/?fbclid=IwAR1G0IBIHAYs9PbxKjOfBjTekMFffJo2-iVu2xT1FqyFoYZEmJL-wANxoII)
+* 🖥️  See my portfolio at [MY PORTFOLIO](http://[i-m-mac-70873.web.app/?fbclid=IwAR1G0IBIHAYs9PbxKjOfBjTekMFffJo2-iVu2xT1FqyFoYZEmJL-wANxoII](https://react-profile-377c1.web.app/?fbclid=IwAR0YBWP3QEe6JXEECxj3b_nkd1-a_ofX-tQBq17eJDyk-95PZkMOzj3I7ac))
 * ✉️  You can contact me at [mac1996.it@gmail.com](mailto:mac1996.it@gmail.com)
 * 🧠  I'm learning front-end, back-end , full stack
 
